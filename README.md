@@ -1,4 +1,4 @@
-# Linasm
+# Libasm
 
 ## Overview
 
@@ -26,7 +26,7 @@ gcc main.c -L . -lasm
 
 ## sample
 
-You can easily test the performance of Linasm
+You can easily test the performance of Libasm
 
 ```
 make
@@ -52,4 +52,4 @@ The following function is written in assembly.
 
 ## Licence
 
-[MIT](https://github.com/kotabrog/Linasm/blob/main/LICENSE)
+[MIT](https://github.com/kotabrog/Libasm/blob/main/LICENSE)
