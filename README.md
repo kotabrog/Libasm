@@ -13,7 +13,7 @@ I created a C function using in assembly language.
 
 ```
 git clone ...
-cd Linasm
+cd Libasm
 make
 ```
 
