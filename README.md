@@ -6,8 +6,8 @@ I created a C function using in assembly language.
 
 ## Requirement
 
-- macOS
-- clang
+- Ubuntu 18.04
+- Linux
 
 ## Usage
 
